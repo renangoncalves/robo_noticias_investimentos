@@ -1,0 +1,10 @@
+selenium
+mysqlclient
+requests
+pyvirtualdisplay
+chromedriver_installer
+pymysql
+selenium-requests
+lxml
+beautifulsoup4
+Quandl
